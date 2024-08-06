@@ -1,0 +1,33 @@
+[
+ 
+  {
+    "name": "Software Development Club Site",
+    "desc": "Fully fledged MERN stack website based on different design patterns. Built using Javascript, XML, ReactJS, EmailJS, TailWindCss.",
+    "image": "softwaredev",
+    "category": "basicweb",
+    "links": {
+      "view": "https://sdcmvjce.tech/",
+      "code": "https://github.com/HakeemHameem/sdcmvjce3"
+    }
+  },
+  {
+    "name": "Real Time Code Editor",
+    "desc": "Fully fledged MERN stack website, Built using Javascript, ReactJS, Socket.io , TailWindCss.",
+    "image": "ce",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/HakeemHameem/SocketApp",
+      "code": "https://github.com/HakeemHameem/SocketApp"
+    }
+  },
+  {
+    "name": "Easy Mathematics Buddy",
+    "desc": "A front-end website, Built using Javascript, HTML, CSS",
+    "image": "math",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/HakeemHameem/SocketApp",
+      "code": "https://github.com/HakeemHameem/SocketApp"
+    }
+  }
+]
